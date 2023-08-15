@@ -1,4 +1,5 @@
 # Software Engineer
+srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/) | [Github](https://github.com/Charan000)
 
 #### Technical Skills: Java, C#, C++, Python, .NET, SQL, Azure
 
@@ -24,18 +25,21 @@
 - Organized meetings with multiple stakeholders and demonstrated the developed simulations to clients.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Telecommunication Spectrum Data Visualization
+[Github](https://github.com/Charan000/Telecom-Spectrum-Visualization)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Visualized the dense Telecom Spectrum data using techniques like Heatmap, Treemap, and Geographical Map Visualization, and added them to the website.
+- Used D3.js and javascript for the visualization.
+- Levaraged DevOps tools such as Jenkins, Docker, ELK and AWS during the development of the portal. Later hosted the [End Result](https://indiatelecom.netlify.app/) using Netlify.
 
-<!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
+![Geographical Map Visualization](/assets/img/TelecomSpectrumProject/IndiaVisualization.png)
+![TreeMap Visualization](/assets/img/TelecomSpectrumProject/TreeMapVisualization.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Agent Based Modeling of Drug Resistant Diseases
+[Github](https://github.com/Charan000/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Developed an Agent-Based model to simulate the onset of drug resistance in the tuberculosis bacteria and subsequent spread of tuberculosis(TB) among humans in a constrained environment.
+- Used Repast City Framework (Java) for city simulation calculations and Python for the visual representation.
 
-<!--![Bike Study](/assets/img/bike_study.jpeg)-->
-
-- [LinkedIn](https://www.linkedin.com/in/charan999/)
+![GIS Life Cycle](/assets/img/AgentBasedModelProject/GISLifeCycle.png)
+![City Model](/assets/img/AgentBasedModelProject/CityModel.png)
