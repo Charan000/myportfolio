@@ -2,13 +2,13 @@
 srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/) | [Github](https://github.com/Charan000)
 
 ## About Me
-Hey there, fellow tech explorers! 👋 I'm your friendly neighborhood code conjurer with 3 years at Microsoft as a software engineer, where I worked on the product Azure Backup which was responsible to backup data of various Azure resources. From crafting elegant backends to conjuring captivating apps, I've been on a mission to turn lines of code into real-world solutions that sparkle with innovation. 🌟 But wait, there's more! I am pursuing my masters at the Univeristy of Washington Seattle as a data science candidate, because let's face it, who doesn't love a good data-driven adventure? 📊 I wish to use the knowledge of data science to combine it with my software engineering expertise so that I can build data-driven solutions in backend development, quantitative development, and many other areas under the software engineering belt. So, if you're ready to ride the code-coaster of creativity and tackle problems that make the world go 'wow,' you've found your partner in tech-taming excitement! 🎉💻 Let's transform challenges into triumphs together! 🚀🔥
+Hey there! 👋 I'm your friendly neighborhood code conjurer, worked for 3 years as a software engineer at Microsoft. From crafting elegant backends to conjuring captivating apps, I’ve been on a mission to turn lines of code into real-world solutions that sparkle with innovation. 🌟 I will be pursuing my masters at UW Seattle to gain new skills in data science, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies and explore new fields like quant development, full stack development, etc. 🚀🔥
 
 ## Technical Skills
-Languages: Java, C++, Python, C#, JavaScript 
-Databases: SQL, CloudFireStore (NoSQL)
-Libraries/Frameworks: Swagger, OpenGL, D3.JS, Direct3D, React Native 
-Technologies: Azure, Git, Docker, Unreal Engine
+Languages: Java, C++, Python, C#, JavaScript <br>
+Databases: SQL, CloudFireStore (NoSQL) <br>
+Libraries/Frameworks: Swagger, OpenGL, D3.JS, Direct3D, React Native <br>
+Technologies: Azure, Git, Docker, Unreal Engine <br>
 Concepts: Cloud Computing, Distributed Systems, Software Engineering, Microservices, Data Visualization, Machine Learning
 
 ## Education
