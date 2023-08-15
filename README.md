@@ -4,10 +4,12 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 #### Technical Skills: Java, C#, C++, Python, .NET, SQL, Azure
 
 ## Education
+
 - M.S., Information Management - Data Science | University of Washington Seattle (_September 2023 - Present_)								       		
 - Integrated Master of Technology, Computer Science	| International Institute of Information Technology Bangalore (_August 2015 - June 2020_)	
 
 ## Work Experience
+
 ### Software Engineer @ Microsoft (_August 2020 - August 2023_)
 - Implemented [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) for vaults storing Azure resource backups, safeguarding against Ransomware attacks and insider actions. Currently safeguarding 2000+ vaults across 400+ subscriptions.
 - Enhanced Azure Backup by integrating [Built-in Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor?tabs=recovery-services-vaults), notifying users of critical backup security scenarios and job failures. Operational for 1500+ backup vaults and expanding.
@@ -25,6 +27,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 - Organized meetings with multiple stakeholders and demonstrated the developed simulations to clients.
 
 ## Projects
+
 ### Telecommunication Spectrum Data Visualization
 [Github](https://github.com/Charan000/Telecom-Spectrum-Visualization)
 
@@ -45,7 +48,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 ![City Model](/assets/img/AgentBasedModelProject/CityModel.png)
 
 ### Image Style Transfer
-[Github] (https://github.com/Charan000/NN-Style-Transfer)
+[Github](https://github.com/Charan000/NN-Style-Transfer)
 
 - Developed a Deep Learning model to compose images in the style of another image using Neural Style Transfer.
 - Used Python and TensorFlow to develop the model.
@@ -55,7 +58,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 ![Multiple Style Transfer](/assets/img/ImageStyleTransfer/MultipleStyleTransfer.png)
 
 ### Soft Shadow Mapping Graphics Model
-[Github] (https://github.com/Charan000/SoftShadowVolumes)
+[Github](https://github.com/Charan000/SoftShadowVolumes)
 
 - Developed a graphics Model in C++ that produces real-time soft shadows with Shader Programming and by doing appropriate lighting calculations, i.e, by calculating the penumbra wedges.
 - Used the Direct3D library for rendering the output.
