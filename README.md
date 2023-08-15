@@ -2,7 +2,7 @@
 srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/) | [Github](https://github.com/Charan000)
 
 ## About Me
-Hey there! 👋 I'm your friendly neighborhood code conjurer, worked for 3 years as a software engineer at **Microsoft**. I’ve been on a mission to write code and solve real-world solutions that sparkle with innovation. 🌟 I will be pursuing my masters at **UW Seattle** to gain new skills in **Data Science**, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies and explore new fields like quant development, full stack development, etc. 🚀🔥
+<p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, worked for 3 years as a software engineer at **Microsoft**. I’ve been on a mission to write code and solve real-world solutions that sparkle with innovation. 🌟 I will be pursuing my masters at **UW Seattle** to gain new skills in **Data Science**, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies and explore new fields like quant development, full stack development, etc. 🚀🔥 </p>
 
 ## Technical Skills
 **Languages**: Java, C++, Python, C#, JavaScript <br>
