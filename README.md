@@ -4,7 +4,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 #### Technical Skills: Java, C#, C++, Python, .NET, SQL, Azure
 
 ## Education
-- M.S., Information Management - Data Science | The University of Washington Seattle (_September 2023 - Present_)								       		
+- M.S., Information Management - Data Science | University of Washington Seattle (_September 2023 - Present_)								       		
 - Integrated Master of Technology, Computer Science	| International Institute of Information Technology Bangalore (_August 2015 - June 2020_)	
 
 ## Work Experience
