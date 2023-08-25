@@ -4,20 +4,24 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 <p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, worked for 3 years as a software engineer at Microsoft. I’ve been on a mission to write code and solve real-world solutions that sparkle with innovation. 🌟 I will be pursuing my masters at UW Seattle to gain new skills in Data Science, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies, and explore new fields like quant development and product management. 🚀🔥 </p>
 
 ## Education
-- M.S., Information Management - Data Science | **University of Washington Seattle** (_September 2023 - Present_)								       		
+- Master of Science, Information Management - Data Science | **University of Washington Seattle** (_September 2023 - Present_)								       		
 - Integrated Master of Technology, Computer Science	| **International Institute of Information Technology Bangalore** (_August 2015 - June 2020_)	
 
 ## Work Experience
 ### Software Engineer @ Microsoft (_August 2020 - August 2023_)
-- Implemented [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) for vaults storing Azure resource backups, safeguarding against Ransomware attacks and insider actions. Currently safeguarding 2000+ vaults across 400+ subscriptions.
-- Enhanced Azure Backup by integrating [Built-in Azure Monitor alerts](https://learn.microsoft.com/en-us/azure/backup/backup-azure-monitoring-built-in-monitor?tabs=recovery-services-vaults), notifying users of critical backup security scenarios and job failures. Operational for 1500+ backup vaults and expanding.
-- Streamlined IaaS Virtual Machine backup configuration with Azure Recovery Services Vault, rectifying sync issues between microservices, resulting in an 82% decrease in failure rate.
-- Automated Azure Workload container authentication certificate rollover and cleanup, saving Azure Backup Ops team's manual effort of 3 days every month for rotating 100+ certificates.
+- Designed and developed [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) feature for Azure cloud backup vaults to protect 8 critical scenarios, safeguarding over 2000 vaults across nearly 400 subscriptions against ransomware attacks and accidental insider actions.
+- Implemented Preflight validation for Azure Backup deployment templates of 4 resources, reducing the failure rate of their deployment due to incorrect input by 85%.
+- Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS VMs with Azure Recovery Services Vault by identifying and resolving inter-service sync issues, resulting in 82% reduction in failure rate.
+- Enhanced the efficiency of rollover process for authentication certificates of Azure Workload containers and automated the cleanup for dangling certificates, eliminating 3 days of effort of the Ops team to manually rotate over 100 certificates every month.
 
 ### Product Developer Intern @ IIITB Innovation Centre (_January 2020 - June 2020_)
-- Developed Raydius : A Map-based digital platform to discover and share the happenings of a neighborhood.
-- Conducted Market Research and customer discovery process through 75 interviews and constructed a business model for Raydius.
-- Produced an MVP of the final product idea, a Cross-Platform Mobile Application(Android and IOS) using React Native and NoSQL database.
+- Conducted market research and customer discovery process through 75 interviews and constructed a business model for  Raydius - a map based digital platform to discover and share the happenings of a neighborhood.
+- Produced an MVP for Raydius, a cross-platform mobile application (Android and IOS) using React Native and NoSQL database.
+- Validated the customer usage for selected localities in Bangalore and identified 4 types of events as primary verticals, which contributed to enhance the application features for those verticals by later teams.
+
+Map View                   |  List View
+:-------------------------:|:-------------------------:
+![MapView](/assets/img/Raydius/MapViewPage2.jpg)  |  ![ListView](/assets/img/Raydius/ListViewPage.jpg)
 
 ### Software Developer Intern @ Hyperreality Technologies (_August 2019 - November 2019_)
 - Developed Interactive Virtual Reality simulations like assembly/usage of a fire extinguisher and Real world scale visualization of Real Estate.
@@ -46,7 +50,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 [Github](https://github.com/Charan000/Agent-Based-Modeling-And-Simulation-of-Drug-Resistant-Diseases)
 
 - Developed an Agent-Based model to simulate the onset of drug resistance in the tuberculosis bacteria and subsequent spread of tuberculosis(TB) among humans in a constrained environment.
-- Used Repast City Framework (Java) for city simulation calculations and Python for the visual representation.
+- Implemented the agent model and visualization using Python, Java, and Repast City framework.
 
 ![GIS Life Cycle](/assets/img/AgentBasedModelProject/GISLifeCycle.png)
 ![City Model](/assets/img/AgentBasedModelProject/CityModel.png)
@@ -67,5 +71,9 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 - Developed a graphics Model in C++ that produces real-time soft shadows with Shader Programming and by doing appropriate lighting calculations, i.e, by calculating the penumbra wedges.
 - Used the Direct3D library for rendering the output.
 
-![Single Light Source](/assets/img/SoftShadowsProject/test1.png)
-![Multiple Light Sources](/assets/img/SoftShadowsProject/test2.png)
+Single Light Source                  |  Multiple Light Sources
+:-------------------------:|:-------------------------:
+![Single Light Source](/assets/img/SoftShadowsProject/test1.png)  |  ![Multiple Light Sources](/assets/img/SoftShadowsProject/test2.png)
+
+
+
