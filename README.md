@@ -71,9 +71,9 @@ Map View                   |  List View
 - Developed a graphics Model in C++ that produces real-time soft shadows with Shader Programming and by doing appropriate lighting calculations, i.e, by calculating the penumbra wedges.
 - Used the Direct3D library for rendering the output.
 
-Single Light Source                  |  Multiple Light Sources
+Single Light Source        |  Multiple Light Sources
 :-------------------------:|:-------------------------:
-![Single Light Source](/assets/img/SoftShadowsProject/test1.png)  |  ![Multiple Light Sources](/assets/img/SoftShadowsProject/test2.png)
+![Single Light Source](/assets/img/SoftShadowsProject/test1.jpg)  |  ![Multiple Light Sources](/assets/img/SoftShadowsProject/test2.jpg)
 
 
 
