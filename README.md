@@ -20,6 +20,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 - **Code Coverage:** Improved code coverage of backup management plane service from 65% to 85% in 2 months.
 - **Mentorship:** Mentored 2 interns, providing guidance for onboarding, development, code reviews, and testing.
 
+![Azure Backup](/assets/img/azure_backup_overview.png)
 
 ### Product Developer Intern @ IIITB Innovation Centre (_January 2020 - June 2020_)
 - **Requirements Gathering:** Conducted 75 customer interviews for market research and customer discovery, and constructed a business model for Raydius - a map based platform to discover and manage local events. 
