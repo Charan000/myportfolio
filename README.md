@@ -11,16 +11,10 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 
 ## Work Experience
 ### Software Engineer @ Microsoft (_August 2020 - August 2023_)
-- Worked on Azure Backup, a highly scalable tier-0 Azure service protecting Azure resources, developing features and optimizing backend workflows across its microservices using .NET and C#.
-- Designed and developed [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) feature for Azure Backup to protect 8 critical scenarios, safeguarding over 2500 backup vaults across nearly 500 subscriptions against ransomware attacks.
-- Implemented Preflight validation for the deployment templates of 4 Azure Backup resources, and reduced failure rate of their deployment due to incorrect input and compliance issues by 92%.
-- Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS virtual machines with Recovery Services Vault by identifying and resolving multi-threaded and inter-service sync issues, which reduced failure rate by 82%.
-- Enhanced Rollover process of authentication certificates of containers and automated the cleanup of dangling certificates, eliminating 3 days of effort of the Ops team to rotate over 100 certificates every month.
-
 - **Backend:** Worked on Azure Backup, a scalable tier-0 service protecting VM data, developing features and workflows across microservices using .NET, C#, and Cosmos DB in an Agile environment.
-- **Feature Design:** Designed and developed Multi-user authorization through REST APIs to protect 8 critical data loss scenarios identified through telemetry, safeguarding over 2500 vaults in nearly 500 subscriptions.
+- **Feature Design:** Designed and developed [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) through REST APIs to protect 8 critical data loss scenarios identified through telemetry, safeguarding over 2500 vaults in nearly 500 subscriptions.
 - **Failure Reduction:** Implemented Preflight validation for deployment templates of 4 Azure Backup resources, and reduced failure rate of their deployment due to incorrect input by 92%, while maintaining reliability.
-- **Performance Tuning:** Optimized the Configure backup operation for IaaS virtual machines by identifying and resolving multi-threading issues and inter-service sync issues, which reduced failure rate by 82%.
+- **Performance Tuning:** Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS virtual machines by identifying and resolving multi-threading issues and inter-service sync issues, which reduced failure rate by 82%.
 - **Optimization and Automation:** Enhanced the rollover process of container auth certificates and automated dangling certificates cleanup, saving 3 days of effort of the Ops team to rotate over 100 certificates every month.
 - **Monitoring:** Integrated Azure Monitor alerts backup vaults, enabling real-time monitoring of 10 critical scenarios.
 - **Code Coverage:** Improved code coverage of backup management plane service from 65% to 85% in 2 months.
