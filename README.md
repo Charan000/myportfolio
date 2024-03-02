@@ -17,11 +17,20 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 - Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS virtual machines with Recovery Services Vault by identifying and resolving multi-threaded and inter-service sync issues, which reduced failure rate by 82%.
 - Enhanced Rollover process of authentication certificates of containers and automated the cleanup of dangling certificates, eliminating 3 days of effort of the Ops team to rotate over 100 certificates every month.
 
+- **Backend:** Worked on Azure Backup, a scalable tier-0 service protecting VM data, developing features and workflows across microservices using .NET, C#, and Cosmos DB in an Agile environment.
+- **Feature Design:** Designed and developed Multi-user authorization through REST APIs to protect 8 critical data loss scenarios identified through telemetry, safeguarding over 2500 vaults in nearly 500 subscriptions.
+- **Failure Reduction:** Implemented Preflight validation for deployment templates of 4 Azure Backup resources, and reduced failure rate of their deployment due to incorrect input by 92%, while maintaining reliability.
+- **Performance Tuning:** Optimized the Configure backup operation for IaaS virtual machines by identifying and resolving multi-threading issues and inter-service sync issues, which reduced failure rate by 82%.
+- **Optimization and Automation:** Enhanced the rollover process of container auth certificates and automated dangling certificates cleanup, saving 3 days of effort of the Ops team to rotate over 100 certificates every month.
+- **Monitoring:** Integrated Azure Monitor alerts backup vaults, enabling real-time monitoring of 10 critical scenarios.
+- **Code Coverage:** Improved code coverage of backup management plane service from 65% to 85% in 2 months.
+- **Mentorship:** Mentored 2 interns, providing guidance for onboarding, development, code reviews, and testing.
+
 
 ### Product Developer Intern @ IIITB Innovation Centre (_January 2020 - June 2020_)
-- Conducted 75 customer interviews for market research and customer discovery process, and constructed a business model for Raydius - a map based digital platform to discover and share the happenings of a neighborhood.
-- Developed an MVP for Raydius, a mobile app (Android/iOS) using React Native, GCP, and Google Maps API.
-- Validated the customer adoption in Bangalore and identified 4 types of use cases as primary verticals, which increased user engagement by 72%, and helped later teams to improve user experience.
+- **Requirements Gathering:** Conducted 75 customer interviews for market research and customer discovery, and constructed a business model for Raydius - a map based platform to discover and manage local events. 
+- **Prototyping:** Prototyped an MVP -  a mobile app using Java, React Native and GCP NoSQL database.
+- **A/B Testing:** Identified and refined 4 use cases as primary verticals, and increased user engagement by 72%.
 
 
 Map View                   |  List View
@@ -29,9 +38,9 @@ Map View                   |  List View
 ![MapView](/assets/img/Raydius/MapViewPage2.jpg)  |  ![ListView](/assets/img/Raydius/ListViewPage.jpg)
 
 ### Software Developer Intern @ Hyperreality Technologies (_August 2019 - November 2019_)
-- Developed Interactive Virtual Reality simulations like assembly/usage of a fire extinguisher and Real world scale visualization of Real Estate.
-- Used C#, Unreal Engine and to build and test the VR simulations.
-- Organized meetings with multiple stakeholders and demonstrated the developed simulations to clients.
+- **VR Development:** Developed Interactive Virtual Reality simulations like assembly/usage of a fire extinguisher and Real world scale visualization of Real Estate.
+- **Technologies:** Used C#, Unreal Engine and to build and test the VR simulations.
+- **Leadership:** Organized meetings with multiple stakeholders and demonstrated the developed simulations to clients.
 
 ## Technical Skills
 **Languages**: Java, C++, Python, C#, JavaScript <br>
