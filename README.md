@@ -3,7 +3,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 ## About Me
 <p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, and a graduate student at UW Seattle. I worked for 3 years as a software engineer at Microsoft, and I’ve been on a mission to write code and solve real-world solutions that sparkle with innovation. 🌟 I am utilizing my current masters program at UW to focus on Data Science, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
 
-![ProfessionalHistory](/assets/img/professional_history.png)
+![ProfessionalHistory](/assets/img/professional_history_with_imgs.png)
 
 ## Education
 - Master of Science, Information Management - Data Science | **University of Washington Seattle** (_September 2023 - Present_)								       		
