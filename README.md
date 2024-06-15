@@ -3,7 +3,7 @@ srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/
 ## About Me
 <p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, who is passionate about software engineering and data science with more than 3 years of work experience. I am currently working as a Software Engineer II at Smartsheet, and I have previously worked as a Software Engineer I at Microsoft for 3 years. I graduated from the University of Washington with a masters specializing in data science, and before that, I completed my integrated masters degree in computer science at IIIT Bangalore.  I’ve been on a mission to write code and build real-world solutions that sparkle with innovation. 🌟 Combining  my engineering experience and knowledge in data science, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
 
-![ProfessionalHistory](/assets/img/professional_history_with_imgs.jpg)
+![ProfessionalHistory](/assets/img/portfolio_history_with_imgs.jpg)
 
 ## Work Experience
 ### Software Engineer II @ Smartsheet (_June 2024 - Present_)
