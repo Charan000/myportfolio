@@ -1,23 +1,23 @@
 srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/) | [Github](https://github.com/Charan000)
 
 ## About Me
-<p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, and a graduate student at UW Seattle. I worked for 3 years as a software engineer at Microsoft, and I’ve been on a mission to write code and solve real-world solutions that sparkle with innovation. 🌟 I am utilizing my current masters program at UW to focus on Data Science, because who doesn't like a data-driven adventure? 📊 Combining data science with my engineering experience, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
+<p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, who is passionate about software engineering and data science with more than 3 years of work experience. I am currently working as a Software Engineer II at Smartsheet, and I have previously worked as a Software Engineer I at Microsoft for 3 years. I graduated from the University of Washington with a masters specializing in data science, and before that, I completed my integrated masters degree in computer science at IIIT Bangalore.  I’ve been on a mission to write code and build real-world solutions that sparkle with innovation. 🌟 Combining  my engineering experience and knowledge in data science, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
 
-![ProfessionalHistory](/assets/img/professional_history_with_imgs.png)
-
-## Education
-- Master of Science, Information Management - Data Science | **University of Washington Seattle** (_September 2023 - Present_)								       		
-- Integrated Master of Technology, Computer Science	| **International Institute of Information Technology Bangalore** (_August 2015 - June 2020_)	
+![ProfessionalHistory](/assets/img/professional_history_with_imgs.jpg)
 
 ## Work Experience
+### Software Engineer II @ Smartsheet (_June 2024 - Present_)
+- **Product Overview:** Working for the Grid Platform team that handles the workflows and functionalities of Smartsheet, which allows the product to facilitate automation and collaborative project/work management.
+
 ### Software Engineer @ Microsoft (_August 2020 - August 2023_)
-- **Backend:** Worked on Azure Backup, a scalable tier-0 service protecting VM data, developing features and workflows across microservices using .NET, C#, and Cosmos DB in an Agile environment.
-- **Feature Design:** Designed and developed [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault) through REST APIs to protect 8 critical data loss scenarios identified through telemetry, safeguarding over 2500 vaults in nearly 500 subscriptions.
-- **Failure Reduction:** Implemented Preflight validation for deployment templates of 4 Azure Backup resources, and reduced failure rate of their deployment due to incorrect input by 92%, while maintaining reliability.
-- **Performance Tuning:** Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS virtual machines by identifying and resolving multi-threading issues and inter-service sync issues, which reduced failure rate by 82%.
+- **Product Overview:** Worked on Azure Backup, a highly scalable microservice-based cloud service providing data protection for VMs, developing features and workflows using .NET, C#, Azure, CosmosDB, Javascript, and Swagger.
+- **Feature Ownership:**  Led the design, development, integration testing, and launch of [Multi-User Authorization](https://learn.microsoft.com/en-us/azure/backup/multi-user-authorization-concept?tabs=recovery-services-vault)  for backup vaults using RBAC to protect 8 data loss scenarios, safeguarding over 5000 vaults in 1200 subscriptions.
+- **Failure Reduction:** Achieved 92% failure rate reduction by implementing Preflight validation feature using REST APIs and JSON validation for deployment templates of 4 resources, eliminating incorrect input scenarios.
+- **Performance Tuning:** Optimized the [Configure Backup](https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-portal#enable-backup-on-a-vm) operation for IaaS virtual machines by identifying and resolving multi-threading issues and inter-service synchronization issues, which reduced failure rate by 82%.
 - **Optimization and Automation:** Enhanced the rollover process of container auth certificates and automated dangling certificates cleanup, saving 3 days of effort of the Ops team to rotate over 100 certificates every month.
-- **Monitoring:** Integrated Azure Monitor alerts backup vaults, enabling real-time monitoring of 10 critical scenarios.
+- **Monitoring:** Integrated Azure Monitor alerts for backup vaults, enabling real-time monitoring of 10 critical scenarios.
 - **Code Coverage:** Improved code coverage of backup management plane service from 65% to 85% in 2 months.
+- **On-Call Responsibility:** Resolved 72 production Sev2s and fixed associated bugs in the team-owned areas.
 - **Mentorship:** Mentored 2 interns, providing guidance for onboarding, development, code reviews, and testing.
 
 ![Azure Backup](/assets/img/azure_backup_overview.png)
@@ -36,6 +36,10 @@ Map View                   |  List View
 - **VR Development:** Developed Interactive Virtual Reality simulations like assembly/usage of a fire extinguisher and Real world scale visualization of Real Estate.
 - **Technologies:** Used C#, Unreal Engine and to build and test the VR simulations.
 - **Leadership:** Organized meetings with multiple stakeholders and demonstrated the developed simulations to clients.
+
+## Education
+- Master of Science, Information Management - Data Science | **University of Washington Seattle** (_September 2023 - May 2024_)								       		
+- Integrated Master of Technology, Computer Science	| **International Institute of Information Technology Bangalore** (_August 2015 - June 2020_)	
 
 ## Technical Skills
 **Languages**: Java, C++, Python, C#, JavaScript <br>
