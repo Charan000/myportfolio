@@ -1,13 +1,18 @@
 srinivascharanmadu@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan999/) | [Github](https://github.com/Charan000)
 
 ## About Me
-<p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, who is passionate about software engineering and data science with more than 3.5 years of work experience. I am currently working as a Software Engineer II at Smartsheet, and I have previously worked as a Software Engineer I at Microsoft for 3 years. I graduated from the University of Washington with a masters specializing in data science, and before that, I completed my integrated masters degree in computer science at IIIT Bangalore.  I’ve been on a mission to write code and build real-world solutions that sparkle with innovation. 🌟 Combining  my engineering experience and knowledge in data science, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
+<p style='text-align: justify;'> Hey there! 👋 I'm your friendly neighborhood code conjurer, who is passionate about software engineering and data science with more than 3.5 years of work experience. I am currently working as an SDE II at AWS, and I have previously worked as a Software Engineer at Smartsheet and Microsoft. I graduated from the University of Washington with a masters specializing in data science, and before that, I completed my integrated masters degree in computer science at IIIT Bangalore.  I’ve been on a mission to write code and build real-world solutions that sparkle with innovation. 🌟 Combining  my engineering experience and knowledge in data science, I wish to develop smart technologies, and explore new fields like data-driven software engineering, while gaining expertise in backend engineering and databases. 🚀🔥 </p>
 
-![ProfessionalHistory](/assets/img/portfolio_history_with_imgs.jpg)
 
 ## Work Experience
-### Software Engineer II @ Smartsheet (_June 2024 - Present_)
-- **Product Overview:** Working for the Grid Platform team that handles the workflows and functionalities of Smartsheet, which allows the product to facilitate automation and collaborative project/work management.
+### Software Development Engineer II @ Amazon Web Services (_December 2024 - Present_)
+- Working for the AWS EKS Scalability and Performance team.
+
+### Software Engineer II @ Smartsheet (_June 2024 - November 2024_)
+- **Product Overview:** Working for Grid Coordination Service (GCS) that handles the workflows and functionalities of the backend of Smartsheet grid, using Java, Kotlin, AWS, Terraform, and Terragrunt.
+- **REST API Development:** Developed the create cell links API in GCS to migrate the operation from monolith to microservices, designing the feature to communicate and work across 3 microservices.
+- **Infrastructure Cost:** Migrated the VPC network egress of GCS from local NAT gateways to a centralized AWS transit gateway, reducing security vulnerabilities and the infra cost by $6k per month.
+- **Code Quality:** Improved GCS code coverage from 68% to 82.4%, and reduced 64 code smells across the code base.
 
 ### Software Engineer @ Microsoft (_August 2020 - August 2023_)
 - **Product Overview:** Worked on Azure Backup, a highly scalable microservice-based cloud service providing data protection for VMs, developing features and workflows using .NET, C#, Azure, CosmosDB, Javascript, and Swagger.
